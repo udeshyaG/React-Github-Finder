@@ -1,3 +1,5 @@
+This project was a part of a React course on Udemy by Brad Traversy (Traversy Media).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
